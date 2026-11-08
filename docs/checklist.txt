@@ -1,0 +1,1 @@
+Checklist de Code Review: Nombres descriptivos (OK), Métodos cortos (OK), Sin Magic Strings (OK).
